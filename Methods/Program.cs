@@ -54,6 +54,7 @@ namespace Methods
 
         static int Add4(int number,params int[] numbers)
         {
+
             return numbers.Sum();
         }
        
